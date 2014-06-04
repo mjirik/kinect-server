@@ -1,0 +1,8 @@
+Webserver pro ziskavani dat z kinectu pro pripojeni vic klientu.
+
+
+Požadavky:
+libboost-all-dev
+websocketpp
+openni
+yaml-cpp
